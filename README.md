@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hankins44
-- 👀 I’m interested in Cybersecurity and Systems Administration
+- 👀 I’m interested in Cybersecurity Systems Administration,and Cloud Architecture
 - 🌱 I’m currently enrolled in a Cybersecurity bootcamp with U-PENN as well as IT support professional certificate through 'Grow with Google' I am looking to obtain a number of certs this year beginning with my CompTIA Security+ and A+.
 - 💞️ I’m looking to collaborate on InfoSec projects and better understand both red and blue team exercises.
 - 📫 You can reach me at pghankel@gmail.com
