@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hankins44
-- 👀 I’m interested in Cybersecurity Systems Administration,and Cloud Architecture
-- 🌱 I’m currently enrolled in a Cybersecurity bootcamp with U-PENN as well as IT support professional certificate through 'Grow with Google' I am looking to obtain a number of certs this year beginning with my CompTIA Security+ and A+.
-- 💞️ I’m looking to collaborate on InfoSec projects and better understand both red and blue team exercises.
+- 👀 I’m interested in Cybersecurity, SIEM & SOAR Engineering, and Data Science & Machine Learning
+- 🌱 I’m currently working as a Security Engineer I; looking to delve deeper into SIEM/SOAR, and detection engineering, and leveraging Data Science and ML for security data analysis and visualization.
+- 💞️ I’m looking to collaborate on various projects in the space, and explore what's possible.
 - 📫 You can reach me at pghankel@gmail.com
 
 <!---
